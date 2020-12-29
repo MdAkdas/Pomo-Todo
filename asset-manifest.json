@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Pomo-Todo/static/css/main.4e0b5253.chunk.css",
+    "main.js": "/Pomo-Todo/static/js/main.f0d6b009.chunk.js",
+    "main.js.map": "/Pomo-Todo/static/js/main.f0d6b009.chunk.js.map",
+    "runtime-main.js": "/Pomo-Todo/static/js/runtime-main.7180cfeb.js",
+    "runtime-main.js.map": "/Pomo-Todo/static/js/runtime-main.7180cfeb.js.map",
+    "static/js/2.1118396d.chunk.js": "/Pomo-Todo/static/js/2.1118396d.chunk.js",
+    "static/js/2.1118396d.chunk.js.map": "/Pomo-Todo/static/js/2.1118396d.chunk.js.map",
+    "index.html": "/Pomo-Todo/index.html",
+    "static/css/main.4e0b5253.chunk.css.map": "/Pomo-Todo/static/css/main.4e0b5253.chunk.css.map",
+    "static/js/2.1118396d.chunk.js.LICENSE.txt": "/Pomo-Todo/static/js/2.1118396d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7180cfeb.js",
+    "static/js/2.1118396d.chunk.js",
+    "static/css/main.4e0b5253.chunk.css",
+    "static/js/main.f0d6b009.chunk.js"
+  ]
+}
