@@ -1,0 +1,35 @@
+h1{
+	color: #000;
+	background-color: transparent;
+	font-size: 50px;
+	
+	padding: 6px 0 2px 0;
+	margin-bottom: 500px;
+	
+	width: 100%;
+	box-shadow: 5px 5px 15px -5px rgba(0,0,0,0.3);
+}
+
+
+#21b6ae blue
+button{
+	min-height:40px;
+	border-radius: 5%;
+	border-color: transparent;
+	background-color: #fff;
+	color: #000;
+	font-size: 25px;
+	outline: none;
+	padding: 10 15px;
+	margin-top: 30px;
+	box-shadow: 5px 5px 15px -15px rgba(0,0,0,0.3);
+}
+
+style={{borderRadius:"35px",backgroundColor: "#21b6ae",}}
+
+
+setItem((newItem)=>{
+			return newItem.filter((elm,idx)=>{
+				return idx!==id;
+			});
+		});

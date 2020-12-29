@@ -1,0 +1,200 @@
+ *{
+ 	box-sizing: border-box;
+ 	padding: 0;
+ 	margin: 0px;
+ 	
+	font-family: 'Josefin Sans', sans-serif;
+	font-size:20px;
+ 
+ }
+
+.main_div{
+	width: 100%;
+	height: 100vh;
+	background:#21b6ae;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+	text-align: center;
+}
+
+.centred_div{
+	width: 60vh;
+	height: 80vh;
+	background-color: #FFFDD0;
+	box-shadow: 5px 5px 25px -25px rgba(0,0,0,0.5);
+	border-radius: 15px;
+	display: flex;
+	flex-direction: column;
+
+	margin-right:30px;
+	
+}
+
+.centred_div1{
+	width: 60vh;
+	height: 80vh;
+	background-color: transparent;
+	border-radius: 15px;
+	display: flex;
+	flex-direction: column;
+	margin-right:30px; 	
+}
+
+
+/*#1F9D9F;*/
+h1{
+	color: #1F9D9F;
+	background-color: transparent;
+	font-size: 40px;
+	padding: 6px 0 2px 0;
+	width: 100%;
+
+	box-sizing: border-box;
+}
+
+
+.inpt_btn{
+	margin: 15px 25px;
+	margin-bottom: 25px;
+	display: flex;
+	justify-content: space-around;
+}
+
+
+input{
+	text-align: center;
+	height: 50px;
+	border: none;
+	background: transparent;
+	font-size: 20px;
+	font-weight: 500;
+	width: 60%;
+	border-bottom: 1.5px solid #181818;
+	outline: none;
+	margin-right: 20px;
+}
+
+
+.newBtn{
+	width: 40px;
+	height: 50px;
+	background-color: #181818;
+	color: white;
+	box-shadow: 5px 5px 15px -5px rgba(0,0,0,0.3);
+	border-radius: 50%;
+
+}
+
+.newBtn:hover{
+	color: #fff;
+}
+
+
+ol{
+	list-style: none;
+	list-style-position:outside;
+	
+}
+
+
+.itm_list{
+	margin-left: 0px;
+	padding-left:0px; 
+	list-style-position:inside;
+   
+    border-width:0.5px;
+    list-style-type:none;
+   
+    padding: 2pt;
+
+    display: flex;
+   
+    justify-content: flex-start;
+    padding-left: 10px;
+}
+
+li 
+{ 
+	font-size:23px; 
+	margin-left:0; 
+	padding-left:10; 
+	 
+}
+
+
+
+
+
+
+*, *:after, *:before {
+  box-sizing: border-box;
+}
+
+.icon-Tomato{
+	
+	
+
+}
+
+
+.app {
+  margin: 0 auto;
+  padding: 1rem 1.25rem;
+  text-align: center;
+}
+
+
+.btn {
+  cursor: pointer;
+  letter-spacing: 2px;
+  font-size: 18px;
+  display: inline-block;
+  min-width: 300px;
+  margin-bottom: 28px;
+  outline: 0;
+  border: 1px solid #000;
+  color: #fff;
+  font-weight: 800;
+  padding: 6px 8px;
+  box-shadow: none;
+  background: none;
+  border-radius: 6px;
+  transition: 0.3s all ease-in;
+
+
+}
+
+.btn:hover{
+	background-color: #FFFDD0;
+    color: #181818;
+}
+
+.timer__description {
+  font-size: 1.75rem;
+}
+
+.timer__time {
+  font-size: 1.5rem;
+}
+
+.input-group {
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2px auto 6px;
+  font-size: 16px;
+  text-align: left;
+  clear: both;
+}
+
+.input-group__input {
+  float: right;
+  padding: 3px 3px;
+  margin: 0 0.5rem;
+  border-radius: 4px;
+  border-bottom: 1px solid #181818;
+}
