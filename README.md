@@ -4,6 +4,10 @@ With Pomo-todo, the todo list is more powerful:
 
 http://akdas.me/Pomo-Todo/
 
+
+## Tech Stack
+REACT
+
 ## Available Scripts
 
 In the project directory, you can run:
